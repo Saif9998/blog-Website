@@ -16,5 +16,10 @@
     "url": "https://github.com/Saif9998/blog-Website/issues"
   },
   "homepage": "https://github.com/Saif9998/blog-Website#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "htmlhint": "^1.1.4",
+    "stylelint": "^16.14.1",
+    "stylelint-config-standard": "^37.0.0"
+  }
 }
